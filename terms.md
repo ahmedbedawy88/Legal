@@ -1,9 +1,5 @@
 # Terms and Conditions of Use
 
-Effective Date: May 3, 2026
-Last Revised: June 13, 2026
-Version: 1.0.0
-
 Stronger Kiddos LLC
 
 Registered in the State of Delaware | Operating from New York, NY

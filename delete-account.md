@@ -1,6 +1,6 @@
 # Delete Your Account & Data
 
-Stronger Kiddos mobile app · Stronger Kiddos LLC · Last updated: June 28, 2026
+Stronger Kiddos mobile app · Stronger Kiddos LLC
 
 This page explains how to delete your **Stronger Kiddos** account and all data associated with it, including every child profile you created. You do not need to be signed in to read this page or to submit a deletion request by email.
 
