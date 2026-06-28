@@ -278,7 +278,7 @@ Stronger Kiddos does NOT collect biometric identifiers (such as facial recogniti
 
 We may update this Privacy Policy from time to time to reflect changes in our practices, technologies, legal requirements, or other factors. If we make material changes, we will provide notice by:
 
-- Updating this Privacy Policy in the app with an updated “Last Revised” date;
+- Posting the updated Privacy Policy in the app;
 
 - Sending an email notification to the address associated with your account (for material changes); and/or
 
